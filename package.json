@@ -20,7 +20,7 @@
     "the-noun-project": "^2.0.1"
   },
   "devDependencies": {
-    "node-sass": "^4.5.2",
+    "node-sass": "^4.13.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
